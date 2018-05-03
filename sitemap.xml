@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brianjamesadvisory.github.io/what-every-girl-should-know/</loc>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://brianjamesadvisory.github.io/where-have-all-the-good-guys-gone/</loc>
     <lastmod>2018-05-03T11:45:10+08:00</lastmod>
   </url>
@@ -71,7 +76,7 @@
   
   <url>
     <loc>https://brianjamesadvisory.github.io/</loc>
-    <lastmod>2018-05-03T11:45:10+08:00</lastmod>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,6 +94,12 @@
   <url>
     <loc>https://brianjamesadvisory.github.io/tags/communication/</loc>
     <lastmod>2018-04-13T11:45:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brianjamesadvisory.github.io/categories/counseling/</loc>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,6 +130,18 @@
   <url>
     <loc>https://brianjamesadvisory.github.io/tags/gesture/</loc>
     <lastmod>2018-04-13T11:45:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brianjamesadvisory.github.io/tags/girls/</loc>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brianjamesadvisory.github.io/tags/health/</loc>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -166,7 +189,7 @@
   
   <url>
     <loc>https://brianjamesadvisory.github.io/post/</loc>
-    <lastmod>2018-05-03T11:45:10+08:00</lastmod>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,6 +202,12 @@
   <url>
     <loc>https://brianjamesadvisory.github.io/tags/relationship/</loc>
     <lastmod>2018-04-30T11:45:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brianjamesadvisory.github.io/tags/sex/</loc>
+    <lastmod>2018-05-03T21:45:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
